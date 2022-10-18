@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+implicit
+tqdm
+seaborn==0.12.0
+scikit-learn
+pyarrow
+catboost
